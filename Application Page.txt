@@ -1,1 +1,2 @@
 This is a application page created by Developer 2
+Another message written by developer 2
